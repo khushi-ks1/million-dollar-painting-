@@ -5,15 +5,18 @@ Dependencies:-
 This project requires the following dependencies:
 
 ->Python 3.x
+
 ->Turtle module (usually included in Python standard library)
 
 Installation:-
 Clone this repository to your local machine using:
  git clone https://github.com/your-username/hirst-dot-painting.git
+ 
 Navigate to the project directory:
   cd hirst-dot-painting
   
 Usage:-
+
 To create your own Hirst Dot Painting, simply run the hirst_dot_painting.py script:
 
 Contributing:-
