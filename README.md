@@ -1,6 +1,9 @@
 This Python project recreates the iconic Hirst Dot Painting using the Turtle module. The Hirst Dot Painting is known for its vibrant and randomized color patterns, creating a visually stunning artwork. With this project, you can generate your own unique Hirst Dot Painting right from your Python environment!
-Dependencies
+
+Dependencies:-
+
 This project requires the following dependencies:
+
 ->Python 3.x
 ->Turtle module (usually included in Python standard library)
 
